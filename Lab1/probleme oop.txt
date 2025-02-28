@@ -1,0 +1,91 @@
+#include <iostream>
+#include <stdio.h>
+#include <string.h>
+using namespace std;
+
+
+void convert(char str[50], int &nr)
+{
+    nr = 0;
+    int aux, cnt = 0;
+    if (str[strlen(str) - 1] == '\n')
+        str[strlen(str) - 1] = NULL;
+    while (cnt < strlen(str))
+    {
+        aux = str[cnt] - '0';
+        nr = nr * 10 + aux;
+        cnt++;
+    }
+}
+
+int main()
+{
+    FILE* file;
+    errno_t err;
+    err = fopen_s(&file, "in.txt", "r");
+    char str[50];
+    int nr, suma=0;
+    while (fgets(str, 50, file) != NULL)
+    {
+        convert(str, nr);
+        suma += nr;
+    }
+    printf("%d", suma);
+}
+
+/////////////
+#include <iostream>
+#include <stdio.h>
+#include <string.h>
+using namespace std;
+
+
+int main()
+{
+    char sir[255];
+    scanf_s("%[^\n]s", sir, 255);
+    int cnt = 0;
+    char aux[255];
+    char matrice[255][255];
+    char* context;
+    char* p = strtok_s(sir, " ", &context);
+    while (p != NULL)
+    {
+        strcpy_s(matrice[cnt], sizeof(matrice[cnt]), p);
+        cnt++;
+        p = strtok_s(NULL, " ", &context);
+    }
+    for (int i = 0; i < cnt; i++)
+        for (int j=i+1; j<cnt; j++)
+            if (strlen(matrice[i]) < strlen(matrice[j]) || (strlen(matrice[i])== strlen(matrice[j]) && strcmp(matrice[i], matrice[j])>0))
+            {
+                strcpy_s(aux, sizeof(matrice[i]), matrice[i]);
+                strcpy_s(matrice[i], sizeof(matrice[j]), matrice[j]);
+                strcpy_s(matrice[j], sizeof(aux), aux);
+            }
+    for (int i = 0; i < cnt; i++)
+        cout << matrice[i] << endl;
+}
+
+///
+#include <iostream>
+using namespace std;
+
+bool isPrime(int n)
+{
+    for (int tr = 2; tr <= n / 2; tr++)
+        if ((n % tr) == 0)
+            return false;
+    return true;
+}
+int main()
+{
+    int n;
+    std::cout << "Enter a number:";
+    std::cin >> n;
+    if (isPrime(n))
+        std::cout << n << " is prime !";
+    else
+        std::cout << n << " is NOT prime !";
+    return 0;
+}
