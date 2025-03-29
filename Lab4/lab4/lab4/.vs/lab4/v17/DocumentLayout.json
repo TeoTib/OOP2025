@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F218E48-361D-4174-8A0A-D32FDCB221CC}|lab4\\lab4.vcxproj|C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F218E48-361D-4174-8A0A-D32FDCB221CC}|lab4\\lab4.vcxproj|solutionrelative:lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F218E48-361D-4174-8A0A-D32FDCB221CC}|lab4\\lab4.vcxproj|C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F218E48-361D-4174-8A0A-D32FDCB221CC}|lab4\\lab4.vcxproj|solutionrelative:lab4\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F218E48-361D-4174-8A0A-D32FDCB221CC}|lab4\\lab4.vcxproj|C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F218E48-361D-4174-8A0A-D32FDCB221CC}|lab4\\lab4.vcxproj|solutionrelative:lab4\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\Sort.cpp",
+              "RelativeDocumentMoniker": "lab4\\Sort.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\Sort.cpp",
+              "RelativeToolTip": "lab4\\Sort.cpp",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwLkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T16:58:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sort.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\Sort.h",
+              "RelativeDocumentMoniker": "lab4\\Sort.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\Sort.h",
+              "RelativeToolTip": "lab4\\Sort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T16:02:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\main.cpp",
+              "RelativeDocumentMoniker": "lab4\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OOP\\proiect\\Lab4\\lab4\\lab4\\main.cpp",
+              "RelativeToolTip": "lab4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T16:02:17.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
