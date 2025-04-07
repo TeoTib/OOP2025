@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB5070C0-0F71-4F73-92C8-CFE6D6F8A1A8}|lab6\\lab6.vcxproj|E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CB5070C0-0F71-4F73-92C8-CFE6D6F8A1A8}|lab6\\lab6.vcxproj|solutionrelative:lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB5070C0-0F71-4F73-92C8-CFE6D6F8A1A8}|lab6\\lab6.vcxproj|E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\RangeRover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB5070C0-0F71-4F73-92C8-CFE6D6F8A1A8}|lab6\\lab6.vcxproj|solutionrelative:lab6\\RangeRover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -70,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RangeRover.cpp",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\RangeRover.cpp",
               "RelativeDocumentMoniker": "lab6\\RangeRover.cpp",
@@ -87,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RangeRover.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\RangeRover.h",
               "RelativeDocumentMoniker": "lab6\\RangeRover.h",
@@ -95,12 +91,11 @@
               "RelativeToolTip": "lab6\\RangeRover.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-02T14:44:57.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:44:57.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Fiat.cpp",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Fiat.cpp",
               "RelativeDocumentMoniker": "lab6\\Fiat.cpp",
@@ -108,12 +103,11 @@
               "RelativeToolTip": "lab6\\Fiat.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T14:43:37.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:43:37.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Fiat.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Fiat.h",
               "RelativeDocumentMoniker": "lab6\\Fiat.h",
@@ -121,12 +115,11 @@
               "RelativeToolTip": "lab6\\Fiat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-02T14:42:28.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:42:28.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Seat.cpp",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Seat.cpp",
               "RelativeDocumentMoniker": "lab6\\Seat.cpp",
@@ -134,12 +127,11 @@
               "RelativeToolTip": "lab6\\Seat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T14:39:51.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:39:51.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Seat.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Seat.h",
               "RelativeDocumentMoniker": "lab6\\Seat.h",
@@ -147,12 +139,11 @@
               "RelativeToolTip": "lab6\\Seat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-02T14:18:33.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:18:33.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Circuit.cpp",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Circuit.cpp",
               "RelativeDocumentMoniker": "lab6\\Circuit.cpp",
@@ -160,12 +151,11 @@
               "RelativeToolTip": "lab6\\Circuit.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T16:09:32.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:09:32.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Circuit.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Circuit.h",
               "RelativeDocumentMoniker": "lab6\\Circuit.h",
@@ -173,12 +163,11 @@
               "RelativeToolTip": "lab6\\Circuit.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T16:04:27.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:04:27.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Bmw.cpp",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Bmw.cpp",
               "RelativeDocumentMoniker": "lab6\\Bmw.cpp",
@@ -186,12 +175,11 @@
               "RelativeToolTip": "lab6\\Bmw.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T16:02:10.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:02:10.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Bmw.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Bmw.h",
               "RelativeDocumentMoniker": "lab6\\Bmw.h",
@@ -199,12 +187,11 @@
               "RelativeToolTip": "lab6\\Bmw.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T15:59:08.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:59:08.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Volvo.cpp",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Volvo.cpp",
               "RelativeDocumentMoniker": "lab6\\Volvo.cpp",
@@ -212,12 +199,11 @@
               "RelativeToolTip": "lab6\\Volvo.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T15:54:04.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:54:04.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Volvo.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Volvo.h",
               "RelativeDocumentMoniker": "lab6\\Volvo.h",
@@ -225,12 +211,11 @@
               "RelativeToolTip": "lab6\\Volvo.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T15:53:00.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:53:00.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Car.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Car.h",
               "RelativeDocumentMoniker": "lab6\\Car.h",
@@ -238,12 +223,11 @@
               "RelativeToolTip": "lab6\\Car.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T15:48:29.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:48:29.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Weather.h",
               "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\Weather.h",
               "RelativeDocumentMoniker": "lab6\\Weather.h",
@@ -251,21 +235,7 @@
               "RelativeToolTip": "lab6\\Weather.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T15:47:40.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\main.cpp",
-              "RelativeDocumentMoniker": "lab6\\main.cpp",
-              "ToolTip": "E:\\Facultate\\OOP\\OOP2025\\Lab6\\lab6\\lab6\\main.cpp",
-              "RelativeToolTip": "lab6\\main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T15:44:21.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:47:40.859Z"
             }
           ]
         }

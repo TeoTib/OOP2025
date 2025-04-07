@@ -1,2 +1,6 @@
-﻿  main.cpp
+﻿  Number.cpp
+E:\Facultate\OOP\OOP2025\Lab5\lab5\lab5\Number.cpp(122,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate\OOP\OOP2025\Lab5\lab5\lab5\Number.cpp(172,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
   lab5.vcxproj -> E:\Facultate\OOP\OOP2025\Lab5\lab5\x64\Debug\lab5.exe
