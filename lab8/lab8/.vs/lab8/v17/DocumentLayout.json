@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\oop\\Lab8\\lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D885F12A-AD1C-4E46-A9C0-43CB0C7F3369}|lab8\\lab8.vcxproj|E:\\oop\\Lab8\\lab8\\lab8\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D885F12A-AD1C-4E46-A9C0-43CB0C7F3369}|lab8\\lab8.vcxproj|solutionrelative:lab8\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\oop\\Lab8\\lab8\\lab8\\Source.cpp",
+              "RelativeDocumentMoniker": "lab8\\Source.cpp",
+              "ToolTip": "E:\\oop\\Lab8\\lab8\\lab8\\Source.cpp",
+              "RelativeToolTip": "lab8\\Source.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T15:29:22.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
