@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Facultate\OOP\OOP2025\lab10\lab10\lab10\Source.cpp(151,1): warning C4715: 'Array<int>::operator[]': not all control paths return a value
+  lab10.vcxproj -> E:\Facultate\OOP\OOP2025\lab10\lab10\x64\Debug\lab10.exe
