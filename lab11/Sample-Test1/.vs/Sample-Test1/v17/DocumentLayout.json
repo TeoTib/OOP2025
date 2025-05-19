@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AACB50C1-6E14-481C-999B-587CDD51AFCB}|Sample-Test1\\Sample-Test1.vcxproj|E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\Sample-Test1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AACB50C1-6E14-481C-999B-587CDD51AFCB}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACB50C1-6E14-481C-999B-587CDD51AFCB}|Sample-Test1\\Sample-Test1.vcxproj|E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\Sample-Test1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AACB50C1-6E14-481C-999B-587CDD51AFCB}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\Sample-Test1\\Source.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\Source.cpp",
+              "ToolTip": "E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\Sample-Test1\\Source.cpp",
+              "RelativeToolTip": "Sample-Test1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T18:22:26.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\Sample-Test1\\test.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\test.cpp",
+              "ToolTip": "E:\\Facultate\\OOP\\OOP2025\\lab11\\Sample-Test1\\Sample-Test1\\test.cpp",
+              "RelativeToolTip": "Sample-Test1\\test.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T18:04:55.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
